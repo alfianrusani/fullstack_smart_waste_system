@@ -193,6 +193,4 @@ Setelah menjalankan instruksi `php artisan migrate --seed` pada tahap instalasi 
 
 * **Institusi:** Mahasiswa Sistem Informasi, Universitas Teknologi Akba Makassar.
 
-* **Program/Kandidat:** Fullstack Developer Assessment – Bilcode Technology.
-
 Dibuat dengan penuh dedikasi untuk memenuhi standar Technical Coding Test serta mewujudkan solusi pengelolaan sampah berbasis teknologi yang berkelanjutan.
